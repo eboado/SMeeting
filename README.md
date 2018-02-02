@@ -1,1 +1,3 @@
 # SMeeting
+
+Meeting notes
